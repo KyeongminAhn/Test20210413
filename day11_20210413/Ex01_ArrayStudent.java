@@ -33,7 +33,7 @@ public class Ex01_ArrayStudent {
 				for (int i = 0; i < scores.length; i++) {
 					System.out.println((i + 1) + "번 째 학생점수 : " + scores[i]);
 				}
-			} else if (selectNo == 4) { // 최대값, 평균갑스 내림차순 출력.
+			} else if (selectNo == 4) { // 최대값, 평균값 내림차순 출력.
 				int max = 0, sum = 0; // 최대값, 합산.
 				for (int i = 0; i < scores.length; i++) {
 					if (max < scores[i]) {
