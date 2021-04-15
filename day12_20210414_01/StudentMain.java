@@ -62,9 +62,7 @@ public class StudentMain {
 		System.out.println(cc); // cc? -- 60
 		
 		
-		
-		
-		
+				
 
 	}
 

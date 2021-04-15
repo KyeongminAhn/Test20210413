@@ -25,7 +25,8 @@ public class People {
 		// 매개변수이름과 필드이름은 동일하게 쓰는게
 		// 일반적이며, 구분을 위해 필드앞에는 this.를 붙인다.
 		this.name = name;
-		this.age = age; // 필드를 지칭할때는 this.를 앞에 붙인다. 파란색=>필드 갈색=>변수
+		this.age = age; 
+		// 필드를 지칭할때는 this.를 앞에 붙인다. 파란색=>필드 갈색=>변수
 		
 	}
 }
